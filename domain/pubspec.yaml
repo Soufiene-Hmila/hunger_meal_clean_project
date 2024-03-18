@@ -1,0 +1,24 @@
+name: domain
+description: A new Flutter package project.
+publish_to: 'none'
+version: 0.0.1
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  core:
+    path: ../core
+
+  #floor: ^1.4.2
+  #floor_annotation: ^1.4.2
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_lints: ^2.0.3
+
+flutter:
+  uses-material-design: true

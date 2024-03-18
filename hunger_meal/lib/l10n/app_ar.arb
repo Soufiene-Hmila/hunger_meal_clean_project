@@ -1,0 +1,115 @@
+{
+
+  "errorEmail": "*يرجى إدخال البريد الإلكتروني الصحيح",
+  "errorPassword": "*الرجاء إدخال كلمة السر الصحيحة",
+  "errorParameter": "تحقق من بياناتك",
+  "errorName": "*رجاء ادخل اسما صحيحا",
+  "errorCondition": "الرجاء قبول الشروط والأحكام.",
+
+
+  "snackBar_1": "جلسة الدفع لا تزال جارية ..",
+  "snackBar_2": "انتظار الدفع ..",
+  "snackBar_3": "تمت الموافقة على الدفع.",
+
+
+  "totalText": "الإجمالي",
+  "addPlusText": "+  إضافة",
+  "codeText": "هل يمتلك الرمز الترويجي؟",
+  "sarText": "ريال",
+
+
+  "productDetails": "تفاصيل المنتج",
+  "commandDetails": "تفاصيل وشروط الشحن",
+
+
+  "easyText": "سهلناهالك",
+  "deliveryText": "التوصيل متوفر الحين",
+  "coffeeText": "قهوة",
+  "coffeeType": "أجود أنواع القهوة",
+
+
+  "chooses": "إخترنا لك",
+  "popular": "الأكثر طلبا",
+  "dessertAndDrink": "إفطار",
+  "foodText": "قائمة الطعام",
+
+
+  "addAddressCommand": "إضافة عنوان جديد",
+  "addressCommand": "عنوان الشحن",
+
+
+  "textGreenBanner_1": "هل يمكننا إغرائك؟",
+  "textGreenBanner_2": "أنفق 100.00 ريال سعودي أخرى للحصول على توصيل مجاني",
+
+
+  "skipText": "تخطى",
+  "condition": "أوافق على الشروط والأحكام",
+  "loginText": "لديك حساب؟ تسجيل الدخول",
+  "registerText": "ليس لديك حساب؟ إنشاء حساب",
+  "register": "إنشاء حساب",
+  "login": "تسجيل الدخول",
+  "remember": "تذكرني ؟",
+  "registerIn": "التسجيل في",
+  "welcome": "أهلا بك في",
+  "passwordText": "يحتوي على حرف . يحتوي على رقم . 8 أحرف كحد أدنى",
+
+  "passwordNewConfirmed": "إعادة كلمة السر الجديدة",
+  "passwordNew": "كلمة السر الجديدة",
+  "passwordOld": "كلمة المرور الحالية",
+  "password": "كلمة السر",
+  "confirmPassword": "إعادة كلمة السر",
+
+
+  "cardCvv": "رمز التحقق من البطاقة",
+  "cardValidation": "تاريخ انتهاء الصلاحية",
+  "cartNumber": "رقم البطاقة",
+  "nameCardOwner": "إسم صاحب البطاقةً",
+  "paymentCt": "إتمام الدفع",
+  "paymentPending": "جاري معالجة طلبك ، برجاء الانتظار ...",
+
+
+  "country": "عنوان",
+  "address": "عنوان",
+  "addText": "إضافة",
+  "updateText": "تحديث",
+
+
+  "addToCart": "أضف إلى السلة",
+  "removeFromCart": "حذف من السلة",
+
+
+  "filter": "فلتر",
+  "sort": "ترتيب حسب",
+  "search": "  البحث عن الطعام والقهوة ...",
+  "send": "إرسال",
+  "fullName": "الإسم كاملاً",
+  "societe": "الشركةً",
+  "firstName": "الإسم الأول",
+  "familyName": "إسم العائلة",
+  "email": "البريد الإلكترونيً",
+  "phone": "رقم الهاتف",
+  "message": "الرسالة",
+  "city": "المدينة",
+  "area": "المساحةً",
+
+
+  "itemMenuMore_1": "المفضلة",
+  "itemMenuMore_2": "طلباتي",
+  "itemMenuMore_3": "القسائم",
+
+  "itemListMore_1": "نبذة عنَّا",
+  "itemListMore_2": "القهوة العضوية",
+  "itemListMore_3": "الشاي الفاخر",
+  "itemListMore_4": "سياسة الخصوصية",
+  "itemListMore_5": "الأسئلة الشائعة",
+  "itemListMore_6": "تواصل معنا",
+
+  "home": "الاستقبال",
+  "categories": "التصنيفات",
+  "basket": "سلّة التسّوق",
+  "gifts": "الهدايا",
+  "more": "المزيد",
+
+  "store": "اختر متجرًا"
+
+}

@@ -1,0 +1,406 @@
+{
+  "errorEmail": "*Please enter the correct email",
+  "@errorEmail": {
+    "description": "*Please enter the correct email"
+  },
+
+  "errorPassword": "*Please enter the correct password",
+  "@errorPassword": {
+    "description": "*Please enter the correct password"
+  },
+
+  "errorName": "*Please enter a valid name",
+  "@errorName": {
+    "description": "* Please enter a valid name"
+  },
+
+  "errorCondition": "Please accept the terms and conditions.",
+  "@errorCondition": {
+    "description": "Please accept the terms and conditions."
+  },
+
+  "errorParameter": "Check your parameter",
+  "@errorParameter": {
+    "description": "Check your parameter"
+  },
+
+
+  "snackBar_1": "Payment session is still in progress",
+  "@snackBar_1": {
+    "description": "Payment session is still in progress"
+  },
+
+  "snackBar_2": "Payment pending ..",
+  "@snackBar_2": {
+    "description": "Payment pending .."
+  },
+
+  "snackBar_3": "Payment approved.",
+  "@snackBar_3": {
+    "description": "Payment approved."
+  },
+
+  "totalText": "Total",
+  "@totalText": {
+    "description": "Text Total"
+  },
+
+  "addPlusText": "+  Add",
+  "@addPlusText": {
+    "description": "Text Code"
+  },
+
+  "codeText": "SAR",
+  "@codeText": {
+    "description": "Text Code"
+  },
+
+  "sarText": "SAR",
+  "@sarText": {
+    "description": "Text SAR"
+  },
+
+  "productDetails": "Product Details",
+  "@productDetails": {
+    "description": "Product Details"
+  },
+
+  "commandDetails": "Shipping details and terms",
+  "@commandDetails": {
+    "description": "Shipping details and terms"
+  },
+
+  "easyText": "Easier",
+  "@easyText": {
+    "description": "We made it easy for you"
+  },
+
+  "deliveryText": "Delivery is now available",
+  "@deliveryText": {
+    "description": "Delivery is now available"
+  },
+
+  "coffeeText": "Coffee",
+  "@coffeeText": {
+    "description": "Coffee"
+  },
+
+  "coffeeType": "The finest coffee",
+  "@coffeeType": {
+    "description": "The finest coffee"
+  },
+
+  "chooses": "Suggest",
+  "@chooses": {
+    "description": "text Chooses"
+  },
+
+  "popular": "Popular",
+  "@popular": {
+    "description": "text Popular"
+  },
+
+  "dessertAndDrink": "Dessert And Drink",
+  "@dessertAndDrink": {
+    "description": "text Dessert And Drink"
+  },
+
+  "foodText": "Food",
+  "@foodText": {
+    "description": "text Food"
+  },
+
+  "addAddressCommand": "Add New Address",
+  "@addAddressCommand": {
+    "description": "Add New Address"
+  },
+
+  "addressCommand": "Address",
+  "@addressCommand": {
+    "description": "Address"
+  },
+
+  "textGreenBanner_1": "Can we lure you?",
+  "@textGreenBanner_1": {
+    "description": "text Green Banner 1"
+  },
+
+  "textGreenBanner_2": "Spend another 100.00 SAR to get free delivery",
+  "@textGreenBanner_2": {
+    "description": "text Green Banner 2"
+  },
+
+
+  "skipText": "Skip",
+  "@skipText": {
+    "description": "Skip Text"
+  },
+
+  "condition": "I agree to the terms and conditions",
+  "@condition": {
+    "description": "I agree to the terms and conditions"
+  },
+
+  "registerText": "Don't have an account? Create an account",
+  "@registerText": {
+    "description": "Don't have an account? Create an account"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Register"
+  },
+
+  "loginText": "You have an account? sign in",
+  "@loginText": {
+    "description": "Login"
+  },
+
+  "login": "Sign in",
+  "@login": {
+    "description": "Login"
+  },
+
+  "remember": "Stay Connected ?",
+  "@remember": {
+    "description": "Welcome To"
+  },
+
+  "registerIn": "Register At",
+  "@registerIn": {
+    "description": "Register At"
+  },
+
+  "welcome": "Welcome To",
+  "@welcome": {
+    "description": "Welcome To"
+  },
+
+  "passwordText": "Contains a character. contains a number. 8 characters minimum",
+  "@passwordText": {
+    "description": "contains a character. contains a number. 8 characters minimum"
+  },
+
+  "passwordNewConfirmed": "Confirmed New Password",
+  "@passwordNewConfirmed": {
+    "description": "Confirmed New Password"
+  },
+
+  "passwordNew": "New Password",
+  "@passwordNew": {
+    "description": "New Password"
+  },
+
+  "passwordOld": "Last Password",
+  "@passwordOld": {
+    "description": "Last Password"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Password"
+  },
+
+  "confirmPassword": "confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm Password"
+  },
+
+  "cardCvv": "Card CVV",
+  "@cardCvv": {
+    "description": "Card CVV"
+  },
+
+  "cardValidation": "Card Validation",
+  "@cardValidation": {
+    "description": "Card Validation"
+  },
+
+  "cartNumber": "Card Number",
+  "@cartNumber": {
+    "description": "Card Number"
+  },
+
+  "nameCardOwner": "Name Card Owner",
+  "@nameCardOwner": {
+    "description": "Name Cart Owner"
+  },
+
+  "paymentCt": "Complete Payment",
+  "@paymentCt": {
+    "description": "Complete Payment"
+  },
+
+  "paymentPending": "Your request is being processed, please wait...",
+  "@paymentPending": {
+    "description": "Your request is being processed, please wait..."
+  },
+
+  "country": "Country",
+  "@country": {
+    "description": "Country Text"
+  },
+
+  "address": "Address",
+  "@address": {
+    "description": "Address Text"
+  },
+
+  "addText": "Add",
+  "@addText": {
+    "description": "Add Text"
+  },
+
+  "updateText": "Update",
+  "@updateText": {
+    "description": "Update Text"
+  },
+
+  "addToCart": "Add To Cart",
+  "@addToCart": {
+    "description": "Add To Cart Text"
+  },
+
+  "removeFromCart": "Remove From Cart",
+  "@removeFromCart": {
+    "description": "Remove From Cart Text"
+  },
+
+  "filter": "Filter",
+  "@filter": {
+    "description": "Filter Text"
+  },
+
+  "sort": "Sort",
+  "@sort": {
+    "description": "Sort Text"
+  },
+
+  "search": "  Find food and coffee...",
+  "@search": {
+    "description": "Search Text Hint Field"
+  },
+
+  "send": "Send",
+  "@send": {
+    "description": "Button Text Send"
+  },
+
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full Name"
+  },
+
+  "societe": "Societe",
+  "@societe": {
+    "description": "Societe Name"
+  },
+
+  "firstName": "First Name",
+  "@firstName": {
+    "description": "First Name"
+  },
+
+  "familyName": "Family Name",
+  "@familyName": {
+    "description": "First Name"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Email Address"
+  },
+
+  "phone": "Phone Number",
+  "@phone": {
+    "description": "Phone Number"
+  },
+
+  "message": "Message",
+  "@message": {
+    "description": "Message"
+  },
+
+  "city": "City",
+  "@city": {
+    "description": "City"
+  },
+
+  "area": "Area",
+  "@area": {
+    "description": "Area"
+  },
+
+  "itemMenuMore_1": "Favorite",
+  "@itemMenuMore_1": {
+    "description": "Item Menu More"
+  },
+
+  "itemMenuMore_2": "Order",
+  "@itemMenuMore_2": {
+    "description": "Item Menu More"
+  },
+
+  "itemMenuMore_3": "Discount",
+  "@itemMenuMore_3": {
+    "description": "Item Menu More"
+  },
+
+  "itemListMore_1": "About Urth Caffe",
+  "@itemListMore_1": {
+    "description": "Item List More"
+  },
+
+  "itemListMore_2": "Organic Coffee",
+  "@itemListMore_2": {
+    "description": "Item List More"
+  },
+
+  "itemListMore_3": "Fine Teas",
+  "@itemListMore_3": {
+    "description": "Item List More"
+  },
+
+  "itemListMore_4": "Privacy Policy",
+  "@itemListMore_4": {
+    "description": "Item List More"
+  },
+
+  "itemListMore_5": "Common Questions",
+  "@itemListMore_5": {
+    "description": "Item List More"
+  },
+
+  "itemListMore_6": "Connect With Us",
+  "@itemListMore_6": {
+    "description": "Item List More"
+  },
+
+
+  "home": "Home",
+  "@home": {
+    "description": "Bottom Navigation Module Name"
+  },
+  "categories": "Categories",
+  "@categories": {
+    "description": "Bottom Navigation Module Name"
+  },
+  "basket": "Basket",
+  "@basket": {
+    "description": "Bottom Navigation Module Name"
+  },
+  "gifts": "Gifts",
+  "@gifts": {
+    "description": "Bottom Navigation Module Name"
+  },
+  "more": "More",
+  "@more": {
+    "description": "Bottom Navigation Module Name"
+  },
+
+
+  "store": "Choose Store",
+  "@store": {
+    "description": "Select Store"
+  }
+}
